@@ -72,6 +72,9 @@ See [Why](#why) and [Contributing](#contributing)
 - [Codeur](https://www.codeur.com/) - Leader in France.
 - [Hopwork](https://www.hopwork.fr/) - Is getting some tractions.
 
+** Hebrew **
+- [XPlace](https://www.xplace.com/il/) - Leader in Israel
+
 **Denmark**
 
 - [Codeable](http://www.codeable.io) - Leader in Denmark for Wordpress freelancing.
